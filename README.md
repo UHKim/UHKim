@@ -6,5 +6,5 @@ Current: Developer, CTO of Volla Inc.
 
 ### Interests
 
-- Mobile Network / Application 
+- Mobile Network / Application & Services
 - Backend / DevOps / Serverless
